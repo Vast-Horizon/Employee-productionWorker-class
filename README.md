@@ -17,5 +17,5 @@ Driver program should use overloaded stream insertion/extraction operators for i
 UML:
 ![image](https://user-images.githubusercontent.com/50966363/110247811-101c7d80-7f3c-11eb-85a1-dc8998ef4eb8.png)
 
-output:
+output:\
 ![image](https://user-images.githubusercontent.com/50966363/110248015-0fd0b200-7f3d-11eb-870c-69c55af74193.png)
